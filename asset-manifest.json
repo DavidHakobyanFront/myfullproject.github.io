@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fullproject/static/css/main.94976ee1.css",
+    "main.js": "/fullproject/static/js/main.241c28c5.js",
+    "static/media/img-logo.png": "/fullproject/static/media/img-logo.39e9b9e285f95c4f7e39.png",
+    "static/media/error-icon-png-15.jpg": "/fullproject/static/media/error-icon-png-15.64ddf8eb2c8463668b4a.jpg",
+    "index.html": "/fullproject/index.html",
+    "main.94976ee1.css.map": "/fullproject/static/css/main.94976ee1.css.map",
+    "main.241c28c5.js.map": "/fullproject/static/js/main.241c28c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94976ee1.css",
+    "static/js/main.241c28c5.js"
+  ]
+}
