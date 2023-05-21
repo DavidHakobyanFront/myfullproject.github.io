@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "userName",
+      "email": "email@gmail.com",
+      "password": "1234"
+    },
+    {
+      "username": "User",
+      "email": "b1789667@urhen.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "User",
+      "email": "b1789667@urhen.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "User",
+      "email": "user1@gmail.com",
+      "password": "1545",
+      "id": 4
+    },
+    {
+      "username": "David",
+      "email": "hakobyan.david2003@gmail.com",
+      "password": "david2003",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "title": "sadasdasadas",
+      "id": 2
+    },
+    {
+      "title": "dsadsaddas",
+      "id": 3
+    },
+    {
+      "title": "sadas",
+      "id": 4
+    }
+  ]
+}

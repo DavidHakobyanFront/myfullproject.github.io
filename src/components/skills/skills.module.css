@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ul {
+  width: 50vw;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.li {
+  width: 45vw;
+  height: 50px;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  border-radius: 5px;
+  color: yellowgreen;
+}
+
+/*# sourceMappingURL=skills.module.css.map */

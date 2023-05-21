@@ -1,0 +1,10 @@
+.menu {
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu .active {
+    color: orangered;
+    font-size: 18px;
+}

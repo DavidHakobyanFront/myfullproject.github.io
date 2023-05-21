@@ -1,0 +1,10 @@
+.footer {
+  width: 100%;
+  height: 65px;
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=footer.module.css.map */
